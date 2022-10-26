@@ -1,0 +1,19 @@
+.status{
+    width: 688px;
+    height: 13px;
+    display: flex;
+    background-color: #000000;
+    border-radius: 17px;
+    margin-top: 11px;
+    .status-pass{
+        width: 18px;
+        height: 100%;
+        background-color: #FFFFFF;
+        border-radius: 17px;
+    }
+    .status-left{
+        width: 100%;
+        height: 100%;
+        
+    }
+}
